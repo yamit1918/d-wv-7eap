@@ -7,4 +7,7 @@ result : both are great. github - faster.
 co-lab has an option to switch to GPU and then thats faster.  
 
 This script provides a good foundation for CPU stress testing.  
-By adjusting parameters one can tailor it to specific testing needs.
+By adjusting parameters one can tailor it to specific testing needs.  
+![co-lab.torch.png]  
+![gi.strss.tst.py]  
+
