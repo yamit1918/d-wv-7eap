@@ -1,4 +1,4 @@
-# @title GPU - in colab if u wont change run enviroment to GPU, ull get error
+# GPU - in colab if u wont change run enviroment to GPU, ull get error
 import torch
 import time
 import os
