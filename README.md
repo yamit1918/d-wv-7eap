@@ -4,8 +4,8 @@ Stress test Q  Full bore cacpacity  ?
 objective : stress test co-lab, github codespace  
 method : in colab and gitlab codespace - lscpu = underlining tech  
 result : both are great. github - faster.  
-co-lab has an option to switch to GPU,  
-significant performance improvment.     
+co-lab has an option to switch to GPU, TPU  
+significant performance improvment.       
   
 This script provides a good foundation for CPU stress testing.  
 By adjusting parameters one can tailor it to specific testing needs.  
